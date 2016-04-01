@@ -1,0 +1,1 @@
+DROP TABLE PREFIX_pembayaran_deposit;

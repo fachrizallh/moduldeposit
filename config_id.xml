@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>moduldeposit</name>
+	<displayName><![CDATA[Modul Deposit]]></displayName>
+	<version><![CDATA[1.0]]></version>
+	<description><![CDATA[Modul yang berguna untuk pembayaran dengan deposit]]></description>
+	<author><![CDATA[Fachrizal Lukman Hakim]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

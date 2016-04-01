@@ -1,0 +1,18 @@
+Hai {firstname} {lastname},
+
+Terima kasih Anda telah berbelanja di {shop_name}!
+
+Pesanan Anda dengan referensi {order_name} telah ditempatkan dengan berhasil dan akan dikirimkan secepatnya setelah kami menerima pembayaran Anda.
+
+Mohon transfer dengan rincian:
+- Jumlah: {total_to_pay}
+- Nama Pemilik Rekening: {nama_owner}
+- Nomor Rekening: {no_rekening}
+
+Anda dapat melihat pesanan Anda dan mendownload invoice Anda melalui bagian "Order history" pada Akun pelanggan Anda dengan menekan "My account" pada toko kami.
+
+Jika Anda memiliki akun tamu, Anda dapat mengikuti pesanan Anda dengan menggunakan link ini: {guest_tracking_url}
+
+{shop_name} - {shop_url}
+
+{shop_url} powered by PrestaShop™
